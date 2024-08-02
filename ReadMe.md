@@ -1,6 +1,6 @@
 # Lung Cancer Detection and Classification
 
-This project utilizes the IQ-OTH/NCCD - Lung Cancer Dataset and the Lung and Colon Cancer Histopathological Images dataset for machine learning tasks related to lung cancer detection, classification, and segmentation. Our objective is to develop models that can accurately identify and characterize lung cancer lesions through image-based analyses.
+This project utilizes the IQ-OTH/NCCD - Lung Cancer Dataset and the Lung and Colon Cancer Histopathological Images dataset for machine learning tasks related to lung cancer detection, classification, and segmentation. Our objective is to develop models that can accurately identify and characterize lung cancer lesions through image-based analyses. We have achieved an accuracy of 98%.
 
 ## Datasets
 
@@ -44,7 +44,7 @@ Researchers and practitioners can use this project for:
 - **Treatment Response Forecasting**: Predicting how a patient might respond to treatment.
 
 ## Conclusion
-By leveraging medical images and advanced machine learning techniques, this project aims to enhance clinical decision-making and improve patient care in the context of lung cancer.
+By leveraging medical images and advanced machine learning techniques, this project aims to enhance clinical decision-making and improve patient care in the context of lung cancer. 
 
 ## License
 This project is licensed under the MIT License.
