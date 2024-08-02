@@ -46,26 +46,6 @@ Researchers and practitioners can use this project for:
 ## Conclusion
 By leveraging medical images and advanced machine learning techniques, this project aims to enhance clinical decision-making and improve patient care in the context of lung cancer.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Required libraries: `numpy`, `pandas`, `scikit-learn`, `tensorflow`, `keras`, `opencv-python`, etc.
-
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/lung-cancer-detection.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd lung-cancer-detection
-    ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## License
 This project is licensed under the MIT License.
 
